@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "66d783555073d097",
+        "id": "1dee82dab5c93641",
         "type": "tabs",
         "children": [
           {
-            "id": "e09c0aaf5e15e96f",
+            "id": "d958a9734b39d7c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alexi Saenz.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Alexi Saenz"
-            }
-          },
-          {
-            "id": "18f3313410222c43",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 322.5
   },
   "right": {
     "id": "08a4d76098548cd8",
@@ -175,8 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18f3313410222c43",
+  "active": "d958a9734b39d7c1",
   "lastOpenFiles": [
+    "Actors/Jose Domingo Ordonez-Zometa.md",
+    "Actors/Borromeo Enrique Henriquez.md",
+    "Actors/Kevin Alexis Rodriguez-Flores.md",
+    "Actors/David Sosa-Guevara.md",
+    "Cliques/Fulton Clique.md",
+    "Links/West Coast.md",
+    "Inner Organization/Ranfla en Las Calles.md",
+    "Inner Organization/Ranfla en Los Penales.md",
+    "README.md",
+    "Actors",
     "Agustino Eugenio Rivas Rodriguez.md",
     "Alexi Saenz.md",
     "Yulan Adonay Archaga Carias.md",
@@ -194,15 +187,6 @@
     "Jose Luis Mendoza-Figueroa.md",
     "Jose Fernandez Flores-Cubas.md",
     "Jose Domingo Ordonez-Zometa.md",
-    "Jorge Alexander De La Cruz.md",
-    "Jorge Alberto Velasquez Paz.md",
-    "Hugo Armando Quinteros-Mineros.md",
-    "Freddy Ivan Jandres-Parada.md",
-    "Francisco Javier Roman-Bardales.md",
-    "Élmer Canales Rivera.md",
-    "Efrain Cortez.md",
-    "Eduardo Erazo-Nolasco.md",
-    "Edson Sachary Eufemia.md",
     "Links/Untitled.canvas",
     "External Organizations",
     "Roles",

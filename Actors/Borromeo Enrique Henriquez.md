@@ -1,6 +1,18 @@
-- https://www.researchgate.net/publication/378851583_A_Social_Network_Analysis_of_an_MS-13_Network_Structure_Leadership_Roles_and_the_Use_of_Confidential_Informants
 
-https://www.justice.gov/usao-md/pr/ms-13-gang-member-sentenced-30-years-federal-prison-conspiracy-destroy-and-conceal-murder
+Relationships:
+[[Ranfla Nacional]]
+[[Twelve Apostles of the Devil]]
+[[Hollywood Locos Clique]]
+
+Tag: #westcoast 
+
+Notes:
+'Diablito de Hollywood'
+TAOFTD refers to him
+most powerful
+
+Sources:
+https://www.justice.gov/usao-edny/pr/ms-13-s-highest-ranking-leaders-charged-terrorism-offenses-united-states
 
 https://www.dhs.gov/hsi/news/2024/10/07/ms-13-gang-members-charged-superseding-indictment-crimes-deadly-violence-following
 

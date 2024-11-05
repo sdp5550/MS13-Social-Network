@@ -1,1 +1,1 @@
-[[Inner Organization]]
+Inner Organization
