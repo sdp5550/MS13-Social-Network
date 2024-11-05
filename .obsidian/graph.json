@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#ranfla  ",
+      "color": {
+        "a": 1,
+        "rgb": 16757519
+      }
+    },
+    {
+      "query": "tag:#US  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#eastcoast  ",
+      "color": {
+        "a": 1,
+        "rgb": 5146335
+      }
+    },
+    {
+      "query": "tag:#southamerica  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#tad  ",
+      "color": {
+        "a": 1,
+        "rgb": 3093041
+      }
+    },
+    {
+      "query": "tag:#westcoast  ",
+      "color": {
+        "a": 1,
+        "rgb": 16126773
+      }
+    },
+    {
+      "query": "tag:#deceased  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.23419958419958,
+  "lineSizeMultiplier": 2.6518711018711,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 15.5717255717256,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6355909281434184,
+  "close": true
+}

@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "02fed4b568c852b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "66d783555073d097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e09c0aaf5e15e96f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alexi Saenz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alexi Saenz"
+            }
+          },
+          {
+            "id": "18f3313410222c43",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "271202f10f961417",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbb296e985ea0565",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe544ad839adf6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c203d342232aba52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a593ffbd139bdcf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "08a4d76098548cd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d315d2367f197af4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78eb7e14673e6989",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Saul Antonio Turcios.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Saul Antonio Turcios"
+            }
+          },
+          {
+            "id": "70650cf3a51435bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Saul Antonio Turcios.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Saul Antonio Turcios"
+            }
+          },
+          {
+            "id": "303415f660b3d8d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e19fb076964a5fc3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Saul Antonio Turcios.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Saul Antonio Turcios"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18f3313410222c43",
+  "lastOpenFiles": [
+    "Agustino Eugenio Rivas Rodriguez.md",
+    "Alexi Saenz.md",
+    "Yulan Adonay Archaga Carias.md",
+    "Walter Yovani Hernandez-Rivera.md",
+    "Vladimir Antonio Arevalo-Chavez.md",
+    "Victor Eduardo Morales Zelaya.md",
+    "Saúl Antonio Turcios Ángel.md",
+    "Ricardo Alberto Diaz.md",
+    "Marlon Antonio Menjivar-Portillo.md",
+    "Luis Flores-Reyes.md",
+    "Leonel Alexander Leonardo.md",
+    "Juan Carlos Portillo Santos.md",
+    "Juan Antonio Martinez-Abrego.md",
+    "Jose Wilfredo Ayala-Alcantara.md",
+    "Jose Luis Mendoza-Figueroa.md",
+    "Jose Fernandez Flores-Cubas.md",
+    "Jose Domingo Ordonez-Zometa.md",
+    "Jorge Alexander De La Cruz.md",
+    "Jorge Alberto Velasquez Paz.md",
+    "Hugo Armando Quinteros-Mineros.md",
+    "Freddy Ivan Jandres-Parada.md",
+    "Francisco Javier Roman-Bardales.md",
+    "Élmer Canales Rivera.md",
+    "Efrain Cortez.md",
+    "Eduardo Erazo-Nolasco.md",
+    "Edson Sachary Eufemia.md",
+    "Links/Untitled.canvas",
+    "External Organizations",
+    "Roles",
+    "Inner Organization",
+    "Cliques",
+    "New folder",
+    "Links",
+    "El Salvador",
+    "US"
+  ]
+}
