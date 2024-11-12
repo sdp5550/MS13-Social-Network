@@ -1,15 +1,12 @@
 
 Relationships:
-
-Tag:
-
-Notes:
-
-Sources:
 [[Hollywood Locos Clique]]
 [[Ranfla Nacional]]
-#westcoast 
 
+Tag: #westcoast 
+
+Notes:
 “Mary Jane de Hollywood”
 
-https://www.fbi.gov/wanted/cei/juan-antonio-martinez-abrego
+Sources:
+- https://www.fbi.gov/wanted/cei/juan-antonio-martinez-abrego

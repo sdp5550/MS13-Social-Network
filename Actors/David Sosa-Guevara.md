@@ -1,15 +1,12 @@
 
 Relationships:
-
-Tag:
-
-Notes:
-
-Sources:
 [[Clique Leader]]
 [[Hollywood Clique]]
-#eastcoast 
 
+Tag: #eastcoast 
+
+Notes:
 'Risky'
 
-https://www.dea.gov/press-releases/2020/02/07/leader-ms-13s-hollywood-clique-sentenced-24-years-life-murder-and
+Sources:
+- https://www.dea.gov/press-releases/2020/02/07/leader-ms-13s-hollywood-clique-sentenced-24-years-life-murder-and

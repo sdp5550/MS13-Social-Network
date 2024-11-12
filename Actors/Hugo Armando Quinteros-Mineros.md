@@ -1,15 +1,12 @@
 
 Relationships:
-
-Tag:
-
-Notes:
-
-Sources:
 [[Ranfla Nacional]]
 [[Francis Locos clique]]
-#westcoast 
 
+Tag: #westcoast 
+
+Notes:
 'Flaco de Francis'
 
-https://insightcrime.org/investigations/birth-ms13-mexico-program/
+Sources:
+- https://insightcrime.org/investigations/birth-ms13-mexico-program/

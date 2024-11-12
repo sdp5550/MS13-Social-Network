@@ -1,16 +1,13 @@
 
 Relationships:
-
-Tag:
-
-Notes:
-
-Sources:
 [[Western Locos Clique]]
 [[Ranfla Nacional]]
-#westcoast 
 
+Tag: #westcoast 
+
+Notes:
 'Colocho de Western'
 'Mustage de Western'
 
-https://insightcrime.org/news/brief/ofac-blacklists-mara-salvatrucha-leaders/
+Sources:
+- https://insightcrime.org/news/brief/ofac-blacklists-mara-salvatrucha-leaders/

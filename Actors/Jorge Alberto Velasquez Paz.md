@@ -1,18 +1,13 @@
 
 Relationships:
-
-Tag:
-
-Notes:
-
-Sources:
 [[Honduras]]
 [[Prison]]
 
-#southamerica 
+Tag: #southamerica
 
-
+Notes:
 'Chacarron'
 Honduras Leader
 
-https://www.justice.gov/opa/pr/principal-drug-and-weapons-supplier-ms-13-honduras-arrested-and-extradited-racketeering
+Sources: 
+- https://www.justice.gov/opa/pr/principal-drug-and-weapons-supplier-ms-13-honduras-arrested-and-extradited-racketeering

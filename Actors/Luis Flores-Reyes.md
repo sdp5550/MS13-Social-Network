@@ -1,17 +1,14 @@
 
 Relationships:
-
-Tag:
-
-Notes:
-
-Sources:
 [[Sailors Clique]]
 
+Tag: #eastcoast 
+
+Notes:
 'Maloso'
 'Lobo'
-#eastcoast 
 
 Leader in Sailors Clique
 
-https://www.justice.gov/opa/pr/two-ms-13-members-sentenced-life-prison-their-roles-murders
+Sources:
+- https://www.justice.gov/opa/pr/two-ms-13-members-sentenced-life-prison-their-roles-murders

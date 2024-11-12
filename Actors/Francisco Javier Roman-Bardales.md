@@ -1,15 +1,12 @@
 
 Relationships:
-
-Tag:
-
-Notes:
-
-Sources:
 [[Ranfla Nacional]]
 [[United States]]
-#US 
 
+Tag: #US 
+
+Notes:
 'Veterano de Tribus'
 
-https://www.fbi.gov/wanted/cei/francisco-javier-roman-bardales
+Sources:
+- https://www.fbi.gov/wanted/cei/francisco-javier-roman-bardales

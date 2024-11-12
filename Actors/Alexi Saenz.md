@@ -1,11 +1,11 @@
 
-### Relationships:
+Relationships:
 [[Sailors Clique]]
 
-### Tag: #eastcoast 
+Tag: #eastcoast 
 
-### Notes:
+Notes:
 'Blasty'
 'Plaky'
 
-### Sources:
+Sources:

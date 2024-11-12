@@ -1,19 +1,15 @@
 
 Relationships:
-
-Tag:
-
-Notes:
-
-Sources:
 [[Honduras]]
-Reported to [[Victor Eduardo Morales Zelaya]]
-
-#southamerica 
-
-Hondorus leader
 [[Prison]]
 
-'Juancy'
+Tag: #southamerica 
 
-https://www.justice.gov/opa/pr/principal-drug-and-weapons-supplier-ms-13-honduras-arrested-and-extradited-racketeering
+Notes:
+'Juancy'
+Hondorus leader
+
+Reported to [[Victor Eduardo Morales Zelaya]]
+
+Sources:
+- https://www.justice.gov/opa/pr/principal-drug-and-weapons-supplier-ms-13-honduras-arrested-and-extradited-racketeering

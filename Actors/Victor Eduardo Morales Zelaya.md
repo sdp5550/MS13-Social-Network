@@ -1,16 +1,12 @@
 
 Relationships:
-
-Tag:
-
-Notes:
-
-Sources:
 [[Honduras]]
 
-#southamerica 
+Tag: #southamerica 
 
+Notes:
 'Cuervo'
 Honduras Leader
 
-https://www.justice.gov/opa/pr/principal-drug-and-weapons-supplier-ms-13-honduras-arrested-and-extradited-racketeering
+Sources:
+- https://www.justice.gov/opa/pr/principal-drug-and-weapons-supplier-ms-13-honduras-arrested-and-extradited-racketeering
