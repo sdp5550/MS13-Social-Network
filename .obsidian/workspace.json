@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1dee82dab5c93641",
+        "id": "915924bf027cce07",
         "type": "tabs",
         "children": [
           {
-            "id": "d958a9734b39d7c1",
+            "id": "6805b972267bdb38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actors/Yulan Adonay Archaga Carias.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Yulan Adonay Archaga Carias"
+              "title": "New tab"
             }
           }
         ]
@@ -162,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d958a9734b39d7c1",
+  "active": "6805b972267bdb38",
   "lastOpenFiles": [
+    "README.md",
+    "Actors/Yulan Adonay Archaga Carias.md",
     "Actors/Walter Yovani Hernandez-Rivera.md",
     "Actors/Vladimir Antonio Arevalo-Chavez.md",
     "Actors/Victor Eduardo Morales Zelaya.md",
@@ -183,13 +181,11 @@
     "Actors/Hugo Armando Quinteros-Mineros.md",
     "Actors/Freddy Ivan Jandres-Parada.md",
     "Actors/Francisco Javier Roman-Bardales.md",
-    "Actors/Efrain Cortez.md",
     "Actors/Élmer Canales Rivera.md",
+    "Actors/Efrain Cortez.md",
     "Actors/Eduardo Erazo-Nolasco.md",
     "Actors/Edson Sachary Eufemia.md",
     "Actors/David Sosa-Guevara.md",
-    "Actors/David Elías Campbell Licona.md",
-    "Actors/Cesar Humberto Lopez-Larios.md",
     "Actors",
     "Links/Untitled.canvas",
     "External Organizations",
