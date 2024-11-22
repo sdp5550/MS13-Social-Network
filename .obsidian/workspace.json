@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "915924bf027cce07",
+        "id": "beeb30ef229e8734",
         "type": "tabs",
         "children": [
           {
-            "id": "6805b972267bdb38",
+            "id": "b14c9209ff56d56b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Actors/Élmer Canales Rivera.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Élmer Canales Rivera"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#westcoast",
+                "query": "lmer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6805b972267bdb38",
+  "active": "b14c9209ff56d56b",
   "lastOpenFiles": [
     "README.md",
     "Actors/Yulan Adonay Archaga Carias.md",
